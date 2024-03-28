@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is Wayne WiKi.md",
+                "file": "JavaScript Problem Solving/The Counter - Easy.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -46,7 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5086555480957
   },
   "right": {
     "id": "e114c7c0459e7ce5",
@@ -64,9 +64,10 @@
   },
   "active": "bc9bcbd148b17ec1",
   "lastOpenFiles": [
+    "This is Wayne WiKi.md",
+    "JavaScript Problem Solving/The Counter - Easy.md",
     "Dev Collections",
     "React",
-    "JavaScript Problem Solving",
-    "This is Wayne WiKi.md"
+    "JavaScript Problem Solving"
   ]
 }
