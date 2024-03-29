@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript Problem Solving/The Counter - Easy.md",
+                "file": "JavaScript Problem Solving/Roman to Integer - Easy.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -64,8 +65,10 @@
   },
   "active": "bc9bcbd148b17ec1",
   "lastOpenFiles": [
-    "This is Wayne WiKi.md",
+    "JavaScript Problem Solving/Palindrome Number - Easy.md",
+    "JavaScript Problem Solving/Roman to Integer - Easy.md",
     "JavaScript Problem Solving/The Counter - Easy.md",
+    "This is Wayne WiKi.md",
     "Dev Collections",
     "React",
     "JavaScript Problem Solving"
