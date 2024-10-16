@@ -1,4 +1,7 @@
 {
   "showInlineTitle": false,
-  "livePreview": false
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showRibbon": false,
+  "useTab": false
 }
