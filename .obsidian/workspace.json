@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sys Node/Latest Era System Design - Part 3.md",
+                "file": "DSA With JS/Phase 1/Linked Lists (Singly and Doubly Linked Lists).md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -47,7 +47,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 290.5
   },
   "right": {
     "id": "e114c7c0459e7ce5",
@@ -84,8 +84,15 @@
   },
   "active": "b3a8e9afc1b9a8a7",
   "lastOpenFiles": [
-    "Sys Node/Untitled.md",
+    "DSA With JS/Intro.md",
+    "DSA With JS/Phase 1/Linked Lists (Singly and Doubly Linked Lists).md",
+    "DSA With JS/Phase 1/Arrays and Strings in JavaScript.md",
+    "DSA With JS/Phase 1/Analyze The Complexity.md",
+    "DSA With JS/Phase 1/Understanding Big O Notation.md",
+    "DSA With JS/Phase 1",
     "Sys Node/Latest Era System Design - Part 3.md",
+    "DSA With JS",
+    "Sys Node/Untitled.md",
     "Sys Node/Latest Era System Design - Part 2.md",
     "Sys Node/Latest Era System Design - Part 1.md",
     "Sys Node/Untitled",
